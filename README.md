@@ -110,5 +110,12 @@ theater figures for the years 201 7 to 2022.
 
 ![image](https://github.com/ffquindala/PowerBI_HollywoodMovies/assets/80399273/024b627e-30d6-445a-abb8-03520ba19457)
 
+## Avarage Sales by Theather
+
+![image](https://github.com/ffquindala/PowerBI_HollywoodMovies/assets/80399273/171777e8-3d99-49ae-8340-a3335ffea764)
+
+## CEO Dashbord
+
+![image](https://github.com/ffquindala/PowerBI_HollywoodMovies/assets/80399273/b73ff44f-5cbd-42cc-9306-f6a0e6d9d9ae)
 
 
