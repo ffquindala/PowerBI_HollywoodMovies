@@ -15,7 +15,7 @@ You’re thinking it may be time to fire up Power BI Desktop.
 
 o https://www.the-numbers.com/ main page; note the menu bar at the top
 
-o https://www.the-numbers.com/market/ use the “Box Office” meny entry and choose
+o https://www.the-numbers.com/market/  “Box Office” meny entry and choose
 “Theatrical Market” to get here – see the Annual Ticket Sales table, where each row
 represents a *Year*.
 
