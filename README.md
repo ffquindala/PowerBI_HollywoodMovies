@@ -105,3 +105,10 @@ to ‘scrape’ a different page for each of the almost 300 movies we have. Ther
 time, we have provided an Excel file that already has more than 25.000 rows of daily revenue and
 theater figures for the years 201 7 to 2022.
 
+## Dashboards Development
+## Movies Sales Trends
+
+![image](https://github.com/ffquindala/PowerBI_HollywoodMovies/assets/80399273/024b627e-30d6-445a-abb8-03520ba19457)
+
+
+
