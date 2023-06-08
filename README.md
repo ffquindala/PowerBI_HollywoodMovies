@@ -1,5 +1,5 @@
 # Power BI Solution Development "Hollywood Movies" 
-## Dashboards Deployment Link : [https://app.powerbi.com/groups/me/reports/79de60b5-3ccb-484c-b1b9-49164699ec5a/ReportSection?experience=power-bi](https://app.powerbi.com/groups/me/reports/79de60b5-3ccb-484c-b1b9-49164699ec5a/ReportSection976d470a2100ca610c68?experience=power-bi)
+## Dashboards Deployment Link :[ [https://app.powerbi.com/groups/me/reports/79de60b5-3ccb-484c-b1b9-49164699ec5a/ReportSection?experience=power-bi](https://app.powerbi.com/groups/me/reports/79de60b5-3ccb-484c-b1b9-49164699ec5a/ReportSection976d470a2100ca610c68?experience=power-bi)](https://app.powerbi.com/groups/me/reports/79de60b5-3ccb-484c-b1b9-49164699ec5a/ReportSection976d470a2100ca610c68?experience=power-bi)
 
 ## Project Goal
 
