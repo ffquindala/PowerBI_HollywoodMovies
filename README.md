@@ -1,5 +1,5 @@
 # Power BI Solution Development "Hollywood Movies" 
-## Dashboards Deployment Link :
+## Dashboards Deployment Link : https://app.powerbi.com/view?r=eyJrIjoiYzQ1YmI4ZmEtYWIwYS00ZTRmLWE4MGYtMzM4N2VhYzBiNGI0IiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9
 
 ## Project Goal
 
