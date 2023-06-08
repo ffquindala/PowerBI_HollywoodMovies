@@ -33,4 +33,16 @@ o https://www.the-numbers.com/market/2022/top-grossing-movies by clicking on
 the “see complete chart” link at the bottom of the above summary table, we get to
 this page, which will be the basis of our ETL.
 
+## ETL Development
 
+## Developing the Dim Movie ETL (Movie dimension)
+The basic idea behind the Movie dimension is that we will ‘scrape’ the “The Numbers” website,
+obtaining the table of Top Grossing movies from each year, so that we can then consolidate this list
+and keep the major movie attributes in our Movies dimension.
+
+At this stage, and because our time is limited, we will be keeping a very short list of attributes for this
+dimension: movie name and release date (movie name will also play the role of ID).
+
+We will be showing how to develop a parameter within Power BI, for the YEAR part of the URL address
+to the page, so that we can develop a function-based query and have a very simple way of choosing
+the year we are interested in, and get those values retrieved through Power BI.
