@@ -9,4 +9,20 @@ The studio’s CEO wants you to prepare a wayfor the studio to study movie sales
 has impacted (is still impacting?...) cinema attendance.
 In two days’ time, you have to sit down with the CEO and her assessors andhave a way of dynamically “slicing and dicing” the box office (market) numbers for the biggest blockbusters
 of the last 6 years (from 2022back to 2017).
-You’re thinking it may be time to fire up Power BI Desktop…
+You’re thinking it may be time to fire up Power BI Desktop.
+
+## Sources
+
+o https://www.the-numbers.com/ main page; note the menu bar at the top
+o https://www.the-numbers.com/market/ use the “Box Office” meny entry and choose
+“Theatrical Market” to get here – see the Annual Ticket Sales table, where each row
+represents a *Year*.
+o https://www.the-numbers.com/market/2022/summary by clicking on a specific
+year (in this case, 2022), we can get to a summary page for each year; we are
+particularly interested in the “Top Grossing Movies of 2022” table, a little further
+down the page.
+o https://www.the-numbers.com/market/2022/top-grossing-movies by clicking on
+the “see complete chart” link at the bottom of the above summary table, we get to
+this page, which will be the basis of our ETL.
+
+
