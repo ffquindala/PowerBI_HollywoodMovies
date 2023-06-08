@@ -1,6 +1,11 @@
 # Power BI Solution Development "Hollywood Movies" 
 ## Dashboards Deployment Link : 
 
+## Project Goal
+
+This tutorial continues with the Self-Service (SS) aspects of the Business Intelligence, through
+a complete Business Intelligence solution, to be developed from ‘scratch’ (from zero) and entirely
+within the Power BI Desktop environment. 
 
 ## Business Needs
 
